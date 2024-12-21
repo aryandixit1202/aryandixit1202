@@ -40,7 +40,7 @@ A proactive and motivated student pursuing MCA, passionate about technology and 
 - **Linux and Database Management**: Focused technical training  
 ---
 ## 📫 **Let’s Connect**
-- 💼 [LinkedIn](#) 
+- 💼 [[LinkedIn](https://www.linkedin.com/in/aryan-dixit-12445925a/)](#) 
 
 --- 
 **“Code your dreams into reality.”**
